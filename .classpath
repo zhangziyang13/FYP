@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/satellite-menu"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/JJSearchViewAnim"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/banner-1.4.5"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/android-async-http-1.4.5.jar"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/BaiduLBS_Android.jar"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/glide-3.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="lib" path="G:/00Project/Package/jars/universal-image-loader-1.9.4.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

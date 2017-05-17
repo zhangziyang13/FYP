@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FYP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="City">suzhou</string>
+    <string name="Type">Type</string>
+    <string name="Distance">Distance</string>
+    <string name="Budget">0 - 999</string>
+    <string name="Store">Store</string>
+    <string name="Clear">Clear History</string>
+    <string name="Hint">Enter the keyword</string>
+    <string name="Min">Min</string>
+    <string name="Max">Max</string>
+    <string name="ReviewScore">Review Score: </string>
+    <string name="Traffic">Traffic</string>
+    <string name="Order">Order</string>
+    <string name="Recommendation">- Recommendation -</string>
+    <string name="Fail">Connection Fail !</string>
+    <string name="TrafficCondition">Traffic Condition : </string>
+    <string name="Event">Event : </string>
+    <string name="Finish">Finish</string>
+    <string name="InitMoney">￥0.0</string>
+    <string name="InitNumber">0</string>
+    <string name="Success">Order submitted successfully !</string>
+    <string name="TotalPrice">Total price : </string>
+    <string name="Back">Back</string>
+    <string name="List">Please check your list !</string>
+    <string name="Confirm">Confirm</string>
+    <string name="ArrivalTime">Arrival time: </string>
+
+</resources>
